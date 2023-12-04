@@ -1,1 +1,7 @@
 # MyProjectAji
+HELLO WORD
+1. PHP
+2. PYTHON
+3. JAVASCRIPT
+4. JAVA
+5. RUBY
